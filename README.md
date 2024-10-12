@@ -10,11 +10,12 @@ Dataset
 The dataset used for this project contains medical records, including patient demographics, clinical tests, and lifestyle information. It includes features such as:
 
 Age, gender, weight, and height
-Blood pressure, glucose levels, creatinine levels
-Past history of diseases such as diabetes or hypertension
-You can download the dataset [here]
 
-(https://www.kaggle.com/datasets/mansoordaku/ckdisease).
+Blood pressure, glucose levels, creatinine levels
+
+Past history of diseases such as diabetes or hypertension
+
+You can download the dataset [here](https://www.kaggle.com/datasets/mansoordaku/ckdisease).
 
 Project Workflow:
 
