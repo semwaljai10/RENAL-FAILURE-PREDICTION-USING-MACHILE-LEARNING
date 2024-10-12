@@ -4,16 +4,16 @@ This project applies machine learning techniques to predict renal failure from c
 
 1.  Project Overview:
 
-Renal failure, or kidney failure, is a serious health condition that can lead to life-threatening complications if not detected early. This project leverages machine learning algorithms to build a predictive model for early diagnosis of renal failure using patient health data.
+    Renal failure, or kidney failure, is a serious health condition that can lead to life-threatening complications if not detected early. This project leverages machine learning algorithms to build a predictive model for early diagnosis of renal failure using patient health data.
 
 2.  Dataset
-The dataset used for this project contains medical records, including patient demographics, clinical tests, and lifestyle information. It includes features such as:
+  The dataset used for this project contains medical records, including patient demographics, clinical tests, and lifestyle information. It includes features such as:
 
-Age, gender, weight, and height
+    Age, gender, weight, and height
+  
+    Blood pressure, glucose levels, creatinine levels
 
-Blood pressure, glucose levels, creatinine levels
-
-Past history of diseases such as diabetes or hypertension
+    Past history of diseases such as diabetes or hypertension
 
 You can download the dataset [here](https://www.kaggle.com/datasets/mansoordaku/ckdisease).
 
